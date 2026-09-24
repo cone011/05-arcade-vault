@@ -16,3 +16,12 @@ npx skills@latest add Klerith/fernando-skills
 ```
 
 ## Hola mundo
+
+## Commands
+
+```bash
+npm run dev      # Start dev server (Next.js, App Router)
+npm run build    # Production build
+npm run start    # Serve the production build
+npm run lint     # ESLint (eslint-config-next core-web-vitals + typescript)
+```

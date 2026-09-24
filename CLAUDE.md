@@ -8,16 +8,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Arcade Vault — a platform for playing games online and competing for the highest score (see README.md). This is currently a freshly scaffolded `create-next-app` project (App Router) with no custom features implemented yet.
 
-## Commands
-
-```bash
-npm run dev      # Start dev server (Next.js, App Router)
-npm run build    # Production build
-npm run start    # Serve the production build
-npm run lint     # ESLint (eslint-config-next core-web-vitals + typescript)
-```
-
 There is no test runner configured yet.
+
+## Skills
+
+Usa siempre /frontend-desing para diseñar interfaz de usuario
 
 ## Important: Next.js version
 
